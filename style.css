@@ -1,0 +1,84 @@
+.flexibility {
+    display: flex;
+}
+
+.hero-section {
+    margin-left: 110px;
+    margin-top: 110px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.about-me {
+
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
+
+
+
+#just {
+    color: orange;
+}
+
+.section-healthy {
+    position: absolute;
+}
+
+.lady {
+    height: 400px;
+    width: 500px;
+
+
+}
+
+.next {
+    background-image: url(image/shapes/7.png);
+}
+
+h1 {}
+
+.food {
+    border-color: aliceblue;
+    border-radius: 7px;
+    text-decoration: none;
+
+}
+
+img {
+    height: 500px;
+    width: 500px;
+    padding: 7%;
+    border: 5%;
+
+
+}
+
+.my {
+    text-align: center;
+}
+
+.ranna {
+    text-align: center;
+    text-size-adjust: 50%;
+
+}
+
+.re-1 {
+    width: 500px;
+    border-radius: 15px solid red;
+    padding: 7px;
+    margin: 70px;
+    box-shadow: gray;
+}
+
+.re-2 {
+    width: 500px;
+    border-radius: 15px solid red;
+    padding: 70px;
+    margin: 40spx;
+    box-shadow: gray;
+}
